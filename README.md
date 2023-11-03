@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **deathwishxxiv on Discord**
 
-- ⚡ Fun fact **I like Cats and Cryptography**
+- ⚡ Fun fact: **I like Cats and Cryptography**
 
 
 
