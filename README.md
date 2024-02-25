@@ -5,7 +5,6 @@
 
 - I’m currently trying to solve [the Natas Wargame from OverTheWire.org](https://overthewire.org/wargames/)
 
-- 📫 How to reach me: **deathwishxxiv on Discord**
 
 
 
