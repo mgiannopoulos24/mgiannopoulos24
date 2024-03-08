@@ -15,7 +15,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mgiannopoulos24&show_icons=true&locale=en&token=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" alt="mgiannopoulos24's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mgiannopoulos24&show_icons=true&locale=en&token=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&theme=dark" alt="mgiannopoulos24's GitHub Stats" />
 </p>
 
 
