@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋. Welcome to my profile</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgiannopoulos24&label=Profile%20views&color=0e75b6&style=flat" alt="mgiannopoulos24" /> </p>
 
-- I’m currently studying on [The Department of Informatics and Telecommunications, University of Athens.](https://www.di.uoa.gr/)
+- I'm studying on [The Department of Informatics and Telecommunications, University of Athens.](https://www.di.uoa.gr/)
 
-- I’m currently trying to solve [the Natas Wargame from OverTheWire.org](https://overthewire.org/wargames/)
+- I'm interested in Front-end Development and CyberSecurity.
 
 
 
