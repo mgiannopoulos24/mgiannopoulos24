@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, welcome to my profile!</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mgiannopoulos24&label=Profile%20views&color=0e75b6&style=flat" alt="mgiannopoulos24" />
-</p>
 
-- Currently studying at [The Department of Informatics and Telecommunications, University of Athens](https://www.di.uoa.gr/).
+- Studying Computer Science at [The Department of Informatics and Telecommunications, University of Athens](https://www.di.uoa.gr/).
 - Interested in Front-end Development and Cybersecurity.
 
 <h3 align="left">Languages and Tools:</h3>
