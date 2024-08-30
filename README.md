@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, welcome to my profile!</h1>
 
-- Studying Computer Science at [The Department of Informatics and Telecommunications, University of Athens](https://www.di.uoa.gr/).
+- Studying Computer Science at the [Department of Informatics and Telecommunications, University of Athens](https://www.di.uoa.gr/).
 - Interested in Front-end Development and Cybersecurity.
 
 <h3 align="left">Languages and Tools:</h3>
