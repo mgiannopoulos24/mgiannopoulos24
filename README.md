@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, welcome to my profile!</h1>
 
-<p align="center">
-  I’m a Computer Science student at the <a href="https://www.di.uoa.gr/" target="_blank" rel="noreferrer">Department of Informatics and Telecommunications, University of Athens</a>. <br>
-  Passionate about Front-end Development and Cybersecurity.
-</p>
+<p align="center"> I’m a Computer Science student at the <a href="https://www.di.uoa.gr/" target="_blank" rel="noreferrer">Department of Informatics and Telecommunications, University of Athens</a>. <br> Passionate about <strong>Front-end Development</strong> and <strong>Cybersecurity</strong>, I enjoy building intuitive user interfaces while ensuring systems are secure and resilient. <br> I also regularly leverage <strong>Large Language Models (LLMs)</strong> in my work, often indirectly, to enhance productivity and explore innovative solutions. </p>
 
 ---
 
