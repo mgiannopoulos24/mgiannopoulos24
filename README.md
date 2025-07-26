@@ -6,7 +6,7 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react,tailwind,bootstrap,docker,bash,powershell,php,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react,tailwind,bootstrap,docker,bash,powershell,php,wordpress,figma)](https://skillicons.dev)
 
 ---
 
