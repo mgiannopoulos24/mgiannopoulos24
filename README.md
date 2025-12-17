@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, welcome to my profile!</h1>
 
-<p align="center"> CS student at the <a href="https://www.di.uoa.gr/" target="_blank" rel="noreferrer" style="color: blue; text-decoration: none;">University of Athens</a>, passionate about <strong>Front-end Development</strong> and <strong>Cybersecurity</strong>. <br> I work with <strong>LLMs</strong> to build intuitive interfaces, automate tasks, and explore tech innovations. <br> In my free time, I contribute to <strong>open-source projects</strong>, dive into new <strong>codebases</strong>, and enjoy <strong>meeting new people</strong>.</p>
+<p align="center"> CS student at the <a href="https://www.di.uoa.gr/" target="_blank" rel="noreferrer" style="color: blue; text-decoration: none;">University of Athens</a>, interested in Front-end Development and Cybersecurity. <br> I work with LLMs to build intuitive interfaces, automate tasks, and explore tech innovations. <br> In my free time, I contribute to open-source projects and work on fun side projects.</p>
 
 ---
 
