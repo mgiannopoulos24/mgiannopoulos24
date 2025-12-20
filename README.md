@@ -24,6 +24,7 @@
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
-  <p align="center">
-       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=Manrope&preferLogin=false">    <img  alt="mgiannopoulos24's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mgiannopoulos24?cardType=level&fontFamily=Manrope&preferLogin=false" />  </a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mgiannopoulos24&show_icons=true&theme=transparent" />
 </p>
