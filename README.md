@@ -11,12 +11,6 @@
 ---
 
 <h3 align="left">📫 Contact Me:</h3>
-<a href="https://github.com/mgiannopoulos24" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-</a>
-<a href="mailto:itzyoboifire111@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-</a>
 <a href="https://discordapp.com/users/DeathwishXXIV#2271" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
 </a>
