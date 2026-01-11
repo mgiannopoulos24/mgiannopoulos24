@@ -6,13 +6,13 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react,tailwind,bootstrap,docker,bash,powershell,php,wordpress,figma,vscode,latex)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?i=c,cpp,python,html,css,js,ts,react,tailwind,bootstrap,docker,bash,powershell,php,wordpress,joomla,elementor,figma,vscode,cursor,latex,chatgpt,gemini,claudeai)](https://skillicons.dev)
 
 ---
 
 <h3 align="left">📫 Contact Me:</h3>
 <a href="https://discordapp.com/users/DeathwishXXIV#2271" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
+  <img src="https://skills.syvixor.com/api/icons?i=discord" alt="Discord"/>
 </a>
 
 ---
