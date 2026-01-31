@@ -6,7 +6,7 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-[![My Skills](https://skills.syvixor.com/api/icons?i=c,cpp,python,html,css,js,ts,react,tailwind,bootstrap,docker,bash,powershell,php,wordpress,joomla,elementor,figma,vscode,cursor,latex,chatgpt,gemini,claudeai)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?i=c,cpp,python,html,css,js,ts,jquery,react,tailwind,bootstrap,docker,bash,powershell,php,wordpress,joomla,elementor,figma,vscode,cursor,latex,chatgpt,gemini,claudeai)](https://skillicons.dev)
 
 ---
 
